@@ -4,7 +4,7 @@
     var controller = new ScrollMagic.Controller();
 
 	// get all triggers - headers of all 3 slides
-	var headers = ["#slide01 header", "#slide02 header", "#slide03 header"];
+	var headers = ["#slide01 header", "#slide02 header", "#slide03 header", "#slide04 header"];
 
 	// Enable ScrollMagic only for desktop, disable on touch and mobile devices
 	if (!Modernizr.touch) {
