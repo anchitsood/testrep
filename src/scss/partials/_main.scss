@@ -101,7 +101,7 @@ $black: #000000;
         padding-top: 120px;
         z-index: 2;
     }
-    &:before {
+    /*&:before {
         content: '1';
         display: block;
         font-size: 30em;
@@ -112,7 +112,7 @@ $black: #000000;
         z-index: 1;
         transform: translate(-50%, -50%);
         font-family: 'Roboto Condensed', Helvetica, Helvetica Neue, Arial, sans-serif;
-    }
+    }*/
 }
 
 /* =Navigation */
